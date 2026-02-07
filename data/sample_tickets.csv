@@ -1,0 +1,9 @@
+ticket_id,created_at,category_hint,subject,description,priority,status,assigned_team
+1001,2025-06-03,,Cannot connect to WiFi,User cannot connect to office WiFi. DNS errors seen.,High,Closed,Help Desk
+1002,2025-06-03,,Password reset request,User locked out after too many attempts.,Medium,Closed,Help Desk
+1003,2025-06-04,,Outlook not syncing,Outlook fails to sync mailbox; error 0x800ccc0f.,Medium,Open,Help Desk
+1004,2025-06-05,,Printer offline,Printer not responding on network; queue stuck.,Low,Closed,Help Desk
+1005,2025-06-06,,VPN not working,User unable to connect to VPN; authentication failed.,High,Open,Help Desk
+1006,2025-06-06,,Slow computer,PC very slow after update; disk usage 100%.,Low,Closed,Help Desk
+1007,2025-06-07,,Suspicious email reported,User received "urgent password expiring" email.,High,Open,Security
+1008,2025-06-07,,Access request,Need permissions to shared drive folder.,Medium,Closed,Help Desk
